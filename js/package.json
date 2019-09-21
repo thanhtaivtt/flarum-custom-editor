@@ -1,0 +1,17 @@
+{
+  "name": "tdc_button",
+  "version": "1.0.0",
+  "dependencies": {
+    "flarum-webpack-config": "0.1.0-beta.10",
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  },
+  "main": "src/forum/helpButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "author": "thanhtaivtt",
+  "license": "MIT"
+}
