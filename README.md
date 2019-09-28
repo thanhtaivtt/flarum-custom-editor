@@ -1,0 +1,2 @@
+# flarum Custom Editor
+
